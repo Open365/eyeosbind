@@ -1,6 +1,6 @@
 {
   "name": "eyeos-bind",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "small object to bind functions",
   "main": "src/index.js",
   "dependencies": {},
